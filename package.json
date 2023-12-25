@@ -1,0 +1,15 @@
+{
+  "name": "@v-idol/vidol-dance-gokuraku",
+  "version": "1.0.0",
+  "private": false,
+  "description": "極楽浄土",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "author": "rdmclin2@163.com",
+  "license": "MIT"
+}
